@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/bijele
 pieces = list(map(int, input().split()))
 correct = [1, 1, 2, 2, 2, 8]
 

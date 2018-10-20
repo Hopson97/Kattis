@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/timeloop
 n = int(input())
 
 for i in range(n):

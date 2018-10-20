@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/twostones
 #include <iostream>
 
 int main() {

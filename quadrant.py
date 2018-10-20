@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/quadrant
 x = int(input())
 y = int(input())
 
